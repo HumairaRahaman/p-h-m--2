@@ -140,7 +140,7 @@ h1 {
 }
 .fish img:nth-child(2) {
   position: absolute;
-  left: -200px;
+  left: -100px;
   top: 30%;
   width: 100px;
   animation: b 40s linear 10s infinite;
